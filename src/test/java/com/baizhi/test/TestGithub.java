@@ -14,5 +14,9 @@ public class TestGithub {
         System.out.println("这是写的第一行代码");
        System.out.println("这是写的第二行代码");
         System.out.println("这是第三行代码");
+        System.out.println("这是第4行代码");
+        System.out.println("这是第5行代码");
+        System.out.println("这是第6行代码");
+
     }
 }
