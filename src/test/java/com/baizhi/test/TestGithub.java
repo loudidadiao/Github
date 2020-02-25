@@ -12,5 +12,6 @@ public class TestGithub {
     @Test
     public void test1(){
         System.out.println("这是写的第一行代码");
+       System.out.println("这是写的第二行代码");
     }
 }
